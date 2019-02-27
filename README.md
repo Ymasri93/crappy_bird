@@ -28,5 +28,5 @@ You can download WAMP (Windows) or MAMP (Mac). They both have a clean user inter
 Open the directory containing the game in the Brackets editor and click on the small bolt icon that is in the top right corner of the window. 
 
 
-#How To Play
+# How To Play
 Press space to jump

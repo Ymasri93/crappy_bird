@@ -1,6 +1,9 @@
-# crappy_bird
+# About
 
-I wanted to learn creating games with html5 using phaser.
+I wanted to learn creating games with html5 using phaser. so I created crappy bird (which is flappy bird but even simpler).
+
+#Demo
+https://ymasri93.github.io/crappy_bird/
 
 # Running the game
 Running a Phaser game directly in a browser doesn't work, that's because Javascript is not allowed to load files from your local file system. To solve that you have to use a webserver to play the game.

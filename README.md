@@ -2,7 +2,7 @@
 
 I wanted to learn creating games with html5 using phaser. so I created crappy bird (which is flappy bird but even simpler).
 
-#Demo
+# Demo
 https://ymasri93.github.io/crappy_bird/
 
 # Running the game
